@@ -14,7 +14,78 @@ export class ServicioService {
       casa:"Externo",
      
     },
-   
+    {
+      nombre: "Buenavista",
+      bio: "Bus que viaja ",
+      img: "assets/img/bus2.png",
+      aparicion: "0.30$",
+      casa:"Externo",
+     
+    },
+    {
+      nombre: "Quito",
+      bio: "Bus que viaja ",
+      img: "assets/img/bus4.png",
+      aparicion: "15$",
+      casa:"Externo",
+     
+    },
+    {
+      nombre: "Guabo",
+      bio: "Bus que viaja ",
+      img: "assets/img/bus2.png",
+      aparicion: "7$",
+      casa:"Externo",
+     
+    },
+    {
+      nombre: "Pichincha",
+      bio: "Bus que viaja ",
+      img: "assets/img/bus4.png",
+      aparicion: "6$",
+      casa:"Externo",
+     
+    },
+    {
+      nombre: "Cotopaxi",
+      bio: "Bus que viaja ",
+      img: "assets/img/bus.png",
+      aparicion: "25$",
+      casa:"Externo",
+     
+    },
+    {
+      nombre: "Santa Rosa",
+      bio: "Bus que viaja ",
+      img: "assets/img/bus4.png",
+      aparicion: "4$",
+      casa:"Externo",
+     
+    },
+    {
+      nombre: "Arenillas",
+      bio: "Bus que viaja ",
+      img: "assets/img/bus2.png",
+      aparicion: "5$",
+      casa:"Externo",
+     
+    },
+    {
+      nombre: "Huaquillas",
+      bio: "Bus que viaja ",
+      img: "assets/img/bus.png",
+      aparicion: "7$",
+      casa:"Externo",
+     
+    },
+    {
+      nombre: "Ponce",
+      bio: "Bus que viaja ",
+      img: "assets/img/bus2.png",
+      aparicion: "5$",
+      casa:"Externo",
+     
+    },
     
   ];
   imagenes: File[] = [];
